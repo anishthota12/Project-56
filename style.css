@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+#picone {
+    width: 800px;
+
+}
+
+#pictwo {
+    width: 826px;
+
+}
+
+#picthree {
+    width: 800px;
+
+}
+
+#picfour {
+    width: 800px;
+
+}
+
+h2 {
+    font-size: 18;
+}
+
+h3 {
+    font-size: 18;
+}
+
+h4 {
+    font-size: 18;
+}
+
+h5 {
+    font-size: 18;
+}
+
+hr {
+    height: 5px;
+    background-color: aqua;
+    color: aqua;
+}
